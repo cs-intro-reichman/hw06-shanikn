@@ -20,7 +20,7 @@ public class ColorDemo {
 		Color yellow = new Color(255, 255, 0);
 
         // To access the RGB values of a Color object,
-        // we use three "get" nethods. For example: 
+        // we use three "get" methods. For example: 
         System.out.println("RGB values of yellow:");     
 		System.out.println("R = " + yellow.getRed());   // prints 255
 		System.out.println("G = " + yellow.getGreen()); // prints 255
